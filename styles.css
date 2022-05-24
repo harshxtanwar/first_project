@@ -38,3 +38,17 @@ body{
     border-radius: 20px;
     width: 100%;
 }
+
+.headermain{
+    
+    font-weight: bolder;
+    font-size: larger;
+    padding: 5px;
+    border-radius: 30px;
+    background-color: rgb(228, 194, 3);
+    font-family: sans-serif;
+    text-align: center;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 50px;
+}
