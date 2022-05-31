@@ -2,9 +2,10 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: sans-serif;
-    background-image: url(background.jpg);
     background-position: center;
     background-size:initial;
+    background-color: rgb(248, 124, 23);
+
 }
 .sign-up-form{
     width: 300px;
@@ -45,10 +46,12 @@ body{
     font-size: larger;
     padding: 5px;
     border-radius: 30px;
-    background-color: rgb(228, 194, 3);
+    background-color: rgb(252, 215, 7);
     font-family: sans-serif;
     text-align: center;
     margin-left: 30%;
     margin-right: 30%;
     margin-top: 50px;
+    box-shadow: 3px 3px 2px 0px rgb(170, 139, 3);
+
 }
